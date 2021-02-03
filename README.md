@@ -1,0 +1,3 @@
+# Pixel-rain
+Being creative and learning canvas... we shall see. Learning much producing...little by little...
+Learning git merge and other git commands by building stuff...this is an image dynamically created by javaScript and will add a pixel-rain effect following in Frank's Laboratory...SWEET!
