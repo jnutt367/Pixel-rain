@@ -1,2 +1,2 @@
-# second-animation-piece
+# Pixel-rain
 Being creative and learning canvas... we shall see. Learning much producing...little by little...
